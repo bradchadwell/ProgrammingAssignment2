@@ -38,7 +38,7 @@
 ## This list is used as input to cacheSolve()
 
 makeCacheMatrix <- function(x = matrix()) {
-        # argument x is a square invertable matrix
+        ## argument x is a square invertable matrix
 
         # initialize inv as null
         inv <- NULL
